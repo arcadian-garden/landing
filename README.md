@@ -1,9 +1,3 @@
-<style>
-    a {
-        color: #ff813f
-    }
-</style>
-
 <center><b><a style="color:#ff813f">~arcadian-garden/</a></b>landing</center>
 <b><a id="Nullam-eget-semper-felis" style="color:#ff813f">nullam eget semper felis:</a></b><br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean viverra diam nec sem pretium elementum ac eget tortor. Praesent at luctus dui. Curabitur vitae mi blandit, cursus nulla eu, pellentesque odio. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam a feugiat purus. Mauris hendrerit sit amet felis sit amet faucibus. Proin nec mollis leo. Integer lacinia, elit ut tincidunt interdum, mi orci eleifend nulla, at rutrum nisl dui eu felis. Sed scelerisque quam dolor.<sup><a id="#cite_ref-maecenas" href="#cite-maecenas">[1]</a></sup> Ut eu lacinia risus, eget faucibus lectus. Nullam in tristique libero. Praesent ultrices ut nulla sed egestas. Ut fermentum consequat quam, vitae porttitor dui suscipit vitae. 
@@ -20,9 +14,9 @@ Mauris ut lorem id lacus laoreet congue. Fusce a risus sit amet nunc suscipit ul
 <b><a id="references" style="color:#ff813f">references:</a></b>
 <ol type = "1">
     <li id="cite-maecenas">
-        <a href="#cite_ref-maecenas">^</a> <a href="Maecenas sit amet leo cursus, pulvinar ipsum vitae">Maecenas sit amet leo cursus, pulvinar ipsum vitaeg</a>
+        <a style="color:#ff813f" href="#cite_ref-maecenas">^</a> <a href="Maecenas sit amet leo cursus, pulvinar ipsum vitae">Maecenas sit amet leo cursus, pulvinar ipsum vitaeg</a>
     </li>
     <li id="cite-duis">
-        <a href="#cite_ref-duis">^</a> <a href="Duis eget pellentesque est. Donec risus turpis">Duis eget pellentesque est. Donec risus turpis</a>
+        <a style="color:#ff813f" href="#cite_ref-duis">^</a> <a href="Duis eget pellentesque est. Donec risus turpis">Duis eget pellentesque est. Donec risus turpis</a>
     </li>
 </ol>
